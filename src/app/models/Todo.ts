@@ -1,4 +1,4 @@
 export class Todo
 {
-    title:String=""
+    title:string=""
 }
